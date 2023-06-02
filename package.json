@@ -1,0 +1,25 @@
+{
+  "name": "@br88c/typed-emitter",
+  "version": "1.0.0",
+  "description": "A simple typed event emitter with no runtime performance impact.",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "emitter",
+    "event",
+    "eventemitter",
+    "typed"
+  ],
+  "homepage": "https://github.com/BR88C/typed-emitter",
+  "bugs": {
+    "url": "https://github.com/BR88C/typed-emitter/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "BR88C",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BR88C/typed-emitter.git"
+  },
+  "private": false
+}
